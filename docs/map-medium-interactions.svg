@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="g-map-medium-interactions-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 620 628" xml:space="preserve">
+<g>
+	<g id="step1_3_">
+		<g id="base-legend_4_">
+			<rect x="25.115" y="45.027" fill="#A66120" width="29.564" height="7.959"/>
+			<rect x="54.679" y="45.027" fill="#E3C477" width="29.564" height="7.959"/>
+			<rect x="114.091" y="45.027" fill="#80CDC1" width="29.564" height="7.959"/>
+			<rect x="84.242" y="45.027" fill="#E8E8E8" width="29.564" height="7.959"/>
+			<rect x="143.37" y="45.027" fill="#3E8571" width="29.564" height="7.959"/>
+			<text transform="matrix(1 0 0 1 9.6478 67.2225)" display="none" font-family="'Lato-Regular'" font-size="14px">&lt; -10%</text>
+			<text transform="matrix(1 0 0 1 62.6865 67.2231)" display="none" font-family="'Lato-Regular'" font-size="14px">-5</text>
+			<text transform="matrix(1 0 0 1 94.6783 67.2224)" display="none" font-family="'Lato-Regular'" font-size="14px">0</text>
+			<text transform="matrix(1 0 0 1 124.5276 67.2224)" display="none" font-family="'Lato-Regular'" font-size="14px">5</text>
+			<text transform="matrix(1 0 0 1 145.9716 67.2231)" display="none" font-family="'Lato-Regular'" font-size="14px">&gt;10</text>
+			
+			<text transform="matrix(1 0 0 1 60.4829 88.6534)" display="none" font-family="'Lato-Regular'" font-size="14px">Missing data</text>
+			<g display="none">
+				<text transform="matrix(1 0 0 1 9.278 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">P</text>
+				<text transform="matrix(1 0 0 1 17.6218 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">e</text>
+				<text transform="matrix(1 0 0 1 24.9577 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">r</text>
+				<text transform="matrix(1 0 0 1 30.5998 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">c</text>
+				<text transform="matrix(1 0 0 1 37.1379 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">e</text>
+				<text transform="matrix(1 0 0 1 44.4734 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">n</text>
+				<text transform="matrix(1 0 0 1 52.2575 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">t</text>
+				<text transform="matrix(1 0 0 1 57.4792 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 60.1814 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">c</text>
+				<text transform="matrix(1 0 0 1 66.719 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">h</text>
+				<text transform="matrix(1 0 0 1 74.5031 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">a</text>
+				<text transform="matrix(1 0 0 1 81.6008 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">n</text>
+				<text transform="matrix(1 0 0 1 89.385 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">g</text>
+				<text transform="matrix(1 0 0 1 96.5388 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">e</text>
+				<text transform="matrix(1 0 0 1 103.8747 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 106.5764 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">f</text>
+				<text transform="matrix(1 0 0 1 111.2942 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">r</text>
+				<text transform="matrix(1 0 0 1 116.9362 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">o</text>
+				<text transform="matrix(1 0 0 1 124.7204 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">m</text>
+				<text transform="matrix(1 0 0 1 136.2146 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 138.9162 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">2</text>
+				<text transform="matrix(1 0 0 1 147.0359 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">0</text>
+				<text transform="matrix(1 0 0 1 155.156 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">0</text>
+				<text transform="matrix(1 0 0 1 163.2756 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">5</text>
+				<text transform="matrix(1 0 0 1 171.3957 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 174.0974 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">t</text>
+				<text transform="matrix(1 0 0 1 179.3191 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">o</text>
+				<text transform="matrix(1 0 0 1 187.1032 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 189.8049 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">2</text>
+				<text transform="matrix(1 0 0 1 197.925 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">0</text>
+				<text transform="matrix(1 0 0 1 206.0446 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">1</text>
+				<text transform="matrix(1 0 0 1 214.1648 33.3397)" display="inline" font-family="'Lato-Regular'" font-size="14px">9</text>
+			</g>
+		</g>
+		<g id="annotation_4_">
+			<g display="none">
+				<text transform="matrix(1 0 0 1 9.2145 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">L</text>
+				<text transform="matrix(1 0 0 1 16.4103 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">i</text>
+				<text transform="matrix(1 0 0 1 19.9943 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">n</text>
+				<text transform="matrix(1 0 0 1 27.7784 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">e</text>
+				<text transform="matrix(1 0 0 1 35.1139 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">s</text>
+				<text transform="matrix(1 0 0 1 41.1901 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 43.8917 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">i</text>
+				<text transform="matrix(1 0 0 1 47.4757 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">n</text>
+				<text transform="matrix(1 0 0 1 55.2599 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">d</text>
+				<text transform="matrix(1 0 0 1 63.0856 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">i</text>
+				<text transform="matrix(1 0 0 1 66.6696 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">c</text>
+				<text transform="matrix(1 0 0 1 73.2076 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">a</text>
+				<text transform="matrix(1 0 0 1 80.3053 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">t</text>
+				<text transform="matrix(1 0 0 1 85.5275 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">e</text>
+				<text transform="matrix(1 0 0 1 92.8629 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 95.5651 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">t</text>
+				<text transform="matrix(1 0 0 1 100.7867 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">h</text>
+				<text transform="matrix(1 0 0 1 108.5709 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">e</text>
+				<text transform="matrix(1 0 0 1 115.9064 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 118.6085 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">c</text>
+				<text transform="matrix(1 0 0 1 125.1466 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">h</text>
+				<text transform="matrix(1 0 0 1 132.9303 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">a</text>
+				<text transform="matrix(1 0 0 1 140.0284 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">n</text>
+				<text transform="matrix(1 0 0 1 147.8121 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">g</text>
+				<text transform="matrix(1 0 0 1 154.9659 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">e</text>
+				<text transform="matrix(1 0 0 1 162.3019 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 165.0035 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">i</text>
+				<text transform="matrix(1 0 0 1 168.5875 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">n</text>
+				<text transform="matrix(1 0 0 1 176.3717 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 179.0739 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">n</text>
+				<text transform="matrix(1 0 0 1 186.8575 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">u</text>
+				<text transform="matrix(1 0 0 1 194.6417 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">m</text>
+				<text transform="matrix(1 0 0 1 206.1354 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">b</text>
+				<text transform="matrix(1 0 0 1 213.9615 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">e</text>
+				<text transform="matrix(1 0 0 1 221.2975 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">r</text>
+				<text transform="matrix(1 0 0 1 226.9391 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 229.6412 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">o</text>
+				<text transform="matrix(1 0 0 1 237.4254 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px">f</text>
+				<text transform="matrix(1 0 0 1 242.1432 283.9996)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 6.8566 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">s</text>
+				<text transform="matrix(1 0 0 1 12.9323 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">p</text>
+				<text transform="matrix(1 0 0 1 20.6603 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">e</text>
+				<text transform="matrix(1 0 0 1 27.9962 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">a</text>
+				<text transform="matrix(1 0 0 1 35.0939 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">k</text>
+				<text transform="matrix(1 0 0 1 42.0099 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">e</text>
+				<text transform="matrix(1 0 0 1 49.3453 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">r</text>
+				<text transform="matrix(1 0 0 1 54.9874 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">s</text>
+				<text transform="matrix(1 0 0 1 61.0636 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 63.7653 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">i</text>
+				<text transform="matrix(1 0 0 1 67.3492 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">n</text>
+				<text transform="matrix(1 0 0 1 75.1334 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 77.8351 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">2</text>
+				<text transform="matrix(1 0 0 1 85.9552 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">0</text>
+				<text transform="matrix(1 0 0 1 94.0748 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">0</text>
+				<text transform="matrix(1 0 0 1 102.1945 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">5</text>
+				<text transform="matrix(1 0 0 1 110.3146 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">,</text>
+				<text transform="matrix(1 0 0 1 113.2823 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 115.984 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">2</text>
+				<text transform="matrix(1 0 0 1 124.1041 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">0</text>
+				<text transform="matrix(1 0 0 1 132.2238 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">1</text>
+				<text transform="matrix(1 0 0 1 140.3434 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">0</text>
+				<text transform="matrix(1 0 0 1 148.4635 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">,</text>
+				<text transform="matrix(1 0 0 1 151.4313 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 154.1334 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">2</text>
+				<text transform="matrix(1 0 0 1 162.2531 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">0</text>
+				<text transform="matrix(1 0 0 1 170.3727 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">1</text>
+				<text transform="matrix(1 0 0 1 178.4928 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">5</text>
+				<text transform="matrix(1 0 0 1 186.6124 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 189.3146 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">a</text>
+				<text transform="matrix(1 0 0 1 196.4122 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">n</text>
+				<text transform="matrix(1 0 0 1 204.1964 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">d</text>
+				<text transform="matrix(1 0 0 1 212.0221 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 214.7238 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">2</text>
+				<text transform="matrix(1 0 0 1 222.8439 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">0</text>
+				<text transform="matrix(1 0 0 1 230.9635 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">1</text>
+				<text transform="matrix(1 0 0 1 239.0836 300.7994)" display="inline" font-family="'Lato-Regular'" font-size="14px">9</text>
+			</g>
+			<g>
+				<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M245.38,285.242c0,0,46.03-3.908,70.597-38.183"/>
+				<g>
+					<polygon points="317.608,249.065 317.998,244.094 313.498,246.241 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g display="none">
+				
+					<text transform="matrix(1 0 0 1 409.2166 108.1873)" display="inline" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="14px">Bronx</text>
+				
+					<text transform="matrix(1 0 0 1 404.9398 124.9872)" display="inline" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="14px">+14.4%</text>
+			</g>
+			<g display="none">
+				<text transform="matrix(1 0 0 1 301.5855 208.2118)" display="inline" font-family="'Lato-Bold'" font-size="14px">Manhattan</text>
+				<text transform="matrix(1 0 0 1 317.0699 225.0116)" display="inline" font-family="'Lato-Bold'" font-size="14px">+6.8%</text>
+			</g>
+			<g display="none">
+				<text transform="matrix(1 0 0 1 465.7946 299.998)" display="inline" font-family="'Lato-Bold'" font-size="14px">Queens</text>
+				<text transform="matrix(1 0 0 1 470.5163 316.7978)" display="inline" font-family="'Lato-Bold'" font-size="14px">+6.9%</text>
+			</g>
+			<text transform="matrix(1 0 0 1 100.8284 495.5872)" display="none" font-family="'Lato-Bold'" font-size="14px">Staten Island</text>
+		</g>
+		<g>
+			<g>
+				<g>
+					<line fill="none" x1="409.602" y1="142.126" x2="410.698" y2="142.126"/>
+					<line fill="none" x1="409.602" y1="126.175" x2="410.698" y2="126.175"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="426.114" y1="135.486" x2="415.154" y2="137.241"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="437.075" y1="133.117" x2="426.114" y2="135.486"/>
+					
+						<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="448.035" y1="134.119" x2="437.075" y2="133.117"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					
+						<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="338.619" y1="426.714" x2="327.658" y2="427.729"/>
+					
+						<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="349.579" y1="425.181" x2="338.619" y2="426.714"/>
+					
+						<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="360.54" y1="429.818" x2="349.579" y2="425.181"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<line fill="none" x1="314.867" y1="257.226" x2="314.867" y2="256.428"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<line fill="none" x1="314.867" y1="257.226" x2="314.867" y2="225.323"/>
+			<g>
+				<g>
+					<line fill="none" x1="314.867" y1="257.226" x2="315.963" y2="257.226"/>
+					<line fill="none" x1="314.867" y1="246.591" x2="315.963" y2="246.591"/>
+					<line fill="none" x1="314.867" y1="235.957" x2="315.963" y2="235.957"/>
+					<line fill="none" x1="314.867" y1="225.323" x2="315.963" y2="225.323"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					
+						<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="331.308" y1="232.945" x2="320.347" y2="235.492"/>
+					
+						<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="342.268" y1="232.435" x2="331.308" y2="232.945"/>
+					
+						<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="353.229" y1="234.012" x2="342.268" y2="232.435"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<line fill="none" x1="468.313" y1="318.349" x2="469.409" y2="318.349"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					
+						<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="484.754" y1="324.635" x2="473.794" y2="326.88"/>
+					
+						<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="495.715" y1="323.881" x2="484.754" y2="324.635"/>
+					
+						<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="506.675" y1="325.272" x2="495.715" y2="323.881"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<line fill="none" x1="116.295" y1="497.411" x2="117.391" y2="497.411"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path fill="#AFAFAF" d="M143.696,507.473"/>
+					
+						<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="154.656" y1="505.105" x2="143.696" y2="507.473"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="step2_3_">
+		<g>
+			<line stroke="#000000" stroke-miterlimit="10" x1="36.098" y1="328.312" x2="266.844" y2="328.312"/>
+			<g>
+				<g>
+					<line x1="36.098" y1="328.312" x2="36.098" y2="324.005"/>
+					<line fill="none" x1="95.285" y1="328.312" x2="95.285" y2="324.005"/>
+					<line fill="none" x1="154.471" y1="328.312" x2="154.471" y2="324.005"/>
+					<line fill="none" x1="213.658" y1="328.312" x2="213.658" y2="324.005"/>
+					<line fill="none" x1="266.844" y1="328.312" x2="266.844" y2="324.005"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 25.0919 332.4734)" display="none" font-family="'Lato-Regular'" font-size="12.6px">0</text>
+				<text transform="matrix(1 0 0 1 1.8956 246.3337)" display="none" font-family="'Lato-Regular'" font-size="12.6px">600K</text>
+				<text transform="matrix(1 0 0 1 3.5206 160.1951)" display="none" font-family="'Lato-Regular'" font-size="12.6px">1.2M</text>
+			</g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="36.098" y1="328.96" x2="36.098" y2="156.683"/>
+			<g>
+				<g>
+					<line fill="none" x1="36.098" y1="328.312" x2="42.017" y2="328.312"/>
+					<line fill="none" x1="36.098" y1="242.173" x2="42.017" y2="242.173"/>
+					<line fill="none" x1="36.098" y1="156.035" x2="42.017" y2="156.035"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					
+						<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="124.878" y1="173.706" x2="65.692" y2="179.188"/>
+					
+						<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="184.064" y1="165.43" x2="124.878" y2="173.706"/>
+					
+						<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="243.251" y1="190.468" x2="184.064" y2="165.43"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="step3_3_">
+		<rect x="22.341" y="103.14" fill="#A66120" width="29.564" height="7.959"/>
+		<rect x="51.904" y="103.14" fill="#CC8956" width="29.564" height="7.959"/>
+		<rect x="170.301" y="103.14" fill="#63CEAA" width="29.564" height="7.959"/>
+		<rect x="111.317" y="103.14" fill="#E8E8E8" width="29.564" height="7.959"/>
+		<rect x="199.58" y="103.14" fill="#3E8571" width="29.564" height="7.959"/>
+		<rect x="81.468" y="103.14" fill="#E3C477" width="29.564" height="7.959"/>
+		<rect x="140.595" y="103.14" fill="#80CDC1" width="29.564" height="7.959"/>
+		<g>
+			<line fill="none" x1="145.795" y1="280.557" x2="145.795" y2="133.722"/>
+		</g>
+		<g>
+			<g>
+				<g>
+					<rect x="97.736" y="135.778" fill="#E3C477" width="48.059" height="10.572"/>
+					<rect x="124.844" y="150.461" fill="#CC8956" width="20.951" height="10.572"/>
+					<rect x="125.976" y="165.145" fill="#E3C477" width="19.819" height="10.572"/>
+					<rect x="126.944" y="179.828" fill="#CC8956" width="18.851" height="10.572"/>
+					<rect x="129.593" y="194.512" fill="#CC8956" width="16.203" height="10.572"/>
+					<rect x="145.795" y="209.195" fill="#80CDC1" width="65.327" height="10.572"/>
+					<rect x="145.795" y="223.879" fill="#3E8571" width="13.506" height="10.572"/>
+					<rect x="145.795" y="238.562" fill="#63CEAA" width="8.847" height="10.572"/>
+					<rect x="145.795" y="253.245" fill="#80CDC1" width="4.606" height="10.572"/>
+					<rect x="145.795" y="267.929" fill="#80CDC1" width="4.54" height="10.572"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g display="none">
+				<text transform="matrix(1 0 0 1 154.123 276.9121)" display="inline" font-family="'Lato-Regular'" font-size="14px">A</text>
+				<text transform="matrix(1 0 0 1 163.6431 276.9121)" display="inline" font-family="'Lato-Regular'" font-size="14px">r</text>
+				<text transform="matrix(1 0 0 1 169.019 276.9121)" display="inline" font-family="'Lato-Regular'" font-size="14px">a</text>
+				<text transform="matrix(1 0 0 1 176.1167 276.9121)" display="inline" font-family="'Lato-Regular'" font-size="14px">b</text>
+				<text transform="matrix(1 0 0 1 183.9429 276.9121)" display="inline" font-family="'Lato-Regular'" font-size="14px">i</text>
+				<text transform="matrix(1 0 0 1 187.5269 276.9121)" display="inline" font-family="'Lato-Regular'" font-size="14px">c</text>
+				<text transform="matrix(1 0 0 1 194.0645 276.9121)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 196.7666 276.9121)" display="inline" font-family="'Lato-Regular'" font-size="14px">3</text>
+				<text transform="matrix(1 0 0 1 204.8862 276.9121)" display="inline" font-family="'Lato-Regular'" font-size="14px">.</text>
+				<text transform="matrix(1 0 0 1 207.854 276.9121)" display="inline" font-family="'Lato-Regular'" font-size="14px">3</text>
+				<text transform="matrix(1 0 0 1 215.9741 276.9121)" display="inline" font-family="'Lato-Regular'" font-size="14px">K</text>
+			</g>
+			<text transform="matrix(1 0 0 1 154.123 262.2275)" display="none" font-family="'Lato-Regular'" font-size="14px">Other African 3.4K</text>
+			<text transform="matrix(1 0 0 1 158.123 247.5449)" display="none" font-family="'Lato-Regular'" font-size="14px">Other Asian 6.5K</text>
+			<text transform="matrix(1 0 0 1 163.7231 232.8623)" display="none" font-family="'Lato-Regular'" font-size="14px">Urdu 9.9K</text>
+			<text transform="matrix(1 0 0 1 216.5234 218.1772)" display="none" font-family="'Lato-Regular'" font-size="14px">Chinese 47.9K</text>
+			<text transform="matrix(1 0 0 1 11.8149 203.4941)" display="none" font-family="'Lato-Regular'" font-size="14px">Other Indic -11.9K</text>
+			<g display="none">
+				<text transform="matrix(1 0 0 1 41.3467 188.8105)" display="inline" font-family="'Lato-Regular'" font-size="14px">P</text>
+				<text transform="matrix(1 0 0 1 49.6904 188.8105)" display="inline" font-family="'Lato-Regular'" font-size="14px">o</text>
+				<text transform="matrix(1 0 0 1 57.4746 188.8105)" display="inline" font-family="'Lato-Regular'" font-size="14px">l</text>
+				<text transform="matrix(1 0 0 1 61.0586 188.8105)" display="inline" font-family="'Lato-Regular'" font-size="14px">i</text>
+				<text transform="matrix(1 0 0 1 64.6426 188.8105)" display="inline" font-family="'Lato-Regular'" font-size="14px">s</text>
+				<text transform="matrix(1 0 0 1 70.7183 188.8105)" display="inline" font-family="'Lato-Regular'" font-size="14px">h</text>
+				<text transform="matrix(1 0 0 1 78.5024 188.8105)" display="inline" font-family="'Lato-Regular'" font-size="14px"> </text>
+				<text transform="matrix(1 0 0 1 81.2041 188.8105)" display="inline" font-family="'Lato-Regular'" font-size="14px">-</text>
+				<text transform="matrix(1 0 0 1 86.062 188.8105)" display="inline" font-family="'Lato-Regular'" font-size="14px">1</text>
+				<text transform="matrix(1 0 0 1 94.1816 188.8105)" display="inline" font-family="'Lato-Regular'" font-size="14px">3</text>
+				<text transform="matrix(1 0 0 1 102.3018 188.8105)" display="inline" font-family="'Lato-Regular'" font-size="14px">.</text>
+				<text transform="matrix(1 0 0 1 105.2695 188.8105)" display="inline" font-family="'Lato-Regular'" font-size="14px">8</text>
+				<text transform="matrix(1 0 0 1 113.3892 188.8105)" display="inline" font-family="'Lato-Regular'" font-size="14px">K</text>
+			</g>
+			<text transform="matrix(1 0 0 1 31.085 174.1265)" display="none" font-family="'Lato-Regular'" font-size="14px">Russian -14.5K</text>
+			<text transform="matrix(1 0 0 1 38.2349 159.4438)" display="none" font-family="'Lato-Regular'" font-size="14px">Italian -15.4K</text>
+			<text transform="matrix(1 0 0 1 3.0288 144.7603)" display="none" font-family="'Lato-Regular'" font-size="14px">Spanish -35.2K</text>
+		</g>
+	</g>
+</g>
+<style>
+#g-map-medium-interactions-img rect, #g-map-medium-interactions-img circle, #g-map-medium-interactions-img path, #g-map-medium-interactions-img line, #g-map-medium-interactions-img polyline, #g-map-medium-interactions-img polygon { vector-effect: non-scaling-stroke; }
+</style>
+</svg>
+

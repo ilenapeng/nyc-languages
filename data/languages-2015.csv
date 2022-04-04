@@ -1,0 +1,191 @@
+county,borough,language,speaker_num,lang_family
+81,Queens,Spanish,524568,Indo-European
+61,Manhattan,Spanish,340566,Indo-European
+5,Bronx,Spanish,651874,Indo-European
+47,Brooklyn,Spanish,399775,Indo-European
+85,Staten Island,Spanish,46850,Indo-European
+81,Queens,French,10735,Indo-European
+61,Manhattan,French,36896,Indo-European
+5,Bronx,French,15385,Indo-European
+47,Brooklyn,French,20007,Indo-European
+85,Staten Island,French,1739,Indo-European
+81,Queens,French Creole,24365,Indo-European
+61,Manhattan,French Creole,2771,Indo-European
+5,Bronx,French Creole,5295,Indo-European
+47,Brooklyn,French Creole,76337,Indo-European
+85,Staten Island,French Creole,229,Indo-European
+81,Queens,Italian,21610,Indo-European
+61,Manhattan,Italian,9409,Indo-European
+5,Bronx,Italian,8653,Indo-European
+47,Brooklyn,Italian,20010,Indo-European
+85,Staten Island,Italian,11950,Indo-European
+81,Queens,Portuguese,6006,Indo-European
+61,Manhattan,Portuguese,6994,Indo-European
+5,Bronx,Portuguese,1686,Indo-European
+47,Brooklyn,Portuguese,2813,Indo-European
+85,Staten Island,Portuguese,175,Indo-European
+81,Queens,German,4999,Indo-European
+61,Manhattan,German,8446,Indo-European
+5,Bronx,German,950,Indo-European
+47,Brooklyn,German,5671,Indo-European
+85,Staten Island,German,789,Indo-European
+81,Queens,Yiddish,2060,Indo-European
+61,Manhattan,Yiddish,1208,Indo-European
+5,Bronx,Yiddish,384,Indo-European
+47,Brooklyn,Yiddish,87859,Indo-European
+85,Staten Island,Yiddish,155,Indo-European
+81,Queens,Other Germanic,807,Indo-European
+61,Manhattan,Other Germanic,947,Indo-European
+5,Bronx,Other Germanic,47,Indo-European
+47,Brooklyn,Other Germanic,1725,Indo-European
+85,Staten Island,Other Germanic,0,Indo-European
+81,Queens,Other Scandinavian,248,Indo-European
+61,Manhattan,Other Scandinavian,3231,Indo-European
+5,Bronx,Other Scandinavian,77,Indo-European
+47,Brooklyn,Other Scandinavian,2203,Indo-European
+85,Staten Island,Other Scandinavian,107,Indo-European
+81,Queens,Greek,27388,Indo-European
+61,Manhattan,Greek,3807,Indo-European
+5,Bronx,Greek,2143,Indo-European
+47,Brooklyn,Greek,7376,Indo-European
+85,Staten Island,Greek,1441,Indo-European
+81,Queens,Russian,41759,Indo-European
+61,Manhattan,Russian,13194,Indo-European
+5,Bronx,Russian,4429,Indo-European
+47,Brooklyn,Russian,128359,Indo-European
+85,Staten Island,Russian,12487,Indo-European
+81,Queens,Polish,26044,Indo-European
+61,Manhattan,Polish,2639,Indo-European
+5,Bronx,Polish,1638,Indo-European
+47,Brooklyn,Polish,19956,Indo-European
+85,Staten Island,Polish,5680,Indo-European
+81,Queens,Serbo-Croatian,9959,Indo-European
+61,Manhattan,Serbo-Croatian,4288,Indo-European
+5,Bronx,Serbo-Croatian,1840,Indo-European
+47,Brooklyn,Serbo-Croatian,3296,Indo-European
+85,Staten Island,Serbo-Croatian,1834,Indo-European
+81,Queens,Other Slavic,7294,Indo-European
+61,Manhattan,Other Slavic,2674,Indo-European
+5,Bronx,Other Slavic,1357,Indo-European
+47,Brooklyn,Other Slavic,7077,Indo-European
+85,Staten Island,Other Slavic,2822,Indo-European
+81,Queens,Armenian,1761,Indo-European
+61,Manhattan,Armenian,18,Indo-European
+5,Bronx,Armenian,121,Indo-European
+47,Brooklyn,Armenian,1091,Indo-European
+85,Staten Island,Armenian,0,Indo-European
+81,Queens,Persian,3962,Indo-European
+61,Manhattan,Persian,2858,Indo-European
+5,Bronx,Persian,579,Indo-European
+47,Brooklyn,Persian,2764,Indo-European
+85,Staten Island,Persian,89,Indo-European
+81,Queens,Gujarati,6062,Indo-European
+61,Manhattan,Gujarati,1450,Indo-European
+5,Bronx,Gujarati,264,Indo-European
+47,Brooklyn,Gujarati,1132,Indo-European
+85,Staten Island,Gujarati,742,Indo-European
+81,Queens,Hindi,28877,Indo-European
+61,Manhattan,Hindi,6623,Indo-European
+5,Bronx,Hindi,530,Indo-European
+47,Brooklyn,Hindi,4215,Indo-European
+85,Staten Island,Hindi,1314,Indo-European
+81,Queens,Urdu,18085,Indo-European
+61,Manhattan,Urdu,3121,Indo-European
+5,Bronx,Urdu,2863,Indo-European
+47,Brooklyn,Urdu,21199,Indo-European
+85,Staten Island,Urdu,3826,Indo-European
+81,Queens,Other Indic,95425,Indo-European
+61,Manhattan,Other Indic,3832,Indo-European
+5,Bronx,Other Indic,16441,Indo-European
+47,Brooklyn,Other Indic,24167,Indo-European
+85,Staten Island,Other Indic,2730,Indo-European
+81,Queens,Other Indo-European,16039,Indo-European
+61,Manhattan,Other Indo-European,4768,Indo-European
+5,Bronx,Other Indo-European,13199,Indo-European
+47,Brooklyn,Other Indo-European,12135,Indo-European
+85,Staten Island,Other Indo-European,6960,Indo-European
+81,Queens,Chinese,198392,Asian and Pacific Island
+61,Manhattan,Chinese,91599,Asian and Pacific Island
+5,Bronx,Chinese,7550,Asian and Pacific Island
+47,Brooklyn,Chinese,181712,Asian and Pacific Island
+85,Staten Island,Chinese,10314,Asian and Pacific Island
+81,Queens,Japanese,6038,Asian and Pacific Island
+61,Manhattan,Japanese,10416,Asian and Pacific Island
+5,Bronx,Japanese,500,Asian and Pacific Island
+47,Brooklyn,Japanese,4918,Asian and Pacific Island
+85,Staten Island,Japanese,344,Asian and Pacific Island
+81,Queens,Korean,54655,Asian and Pacific Island
+61,Manhattan,Korean,13382,Asian and Pacific Island
+5,Bronx,Korean,2279,Asian and Pacific Island
+47,Brooklyn,Korean,4627,Asian and Pacific Island
+85,Staten Island,Korean,4153,Asian and Pacific Island
+81,Queens,Cambodian,150,Asian and Pacific Island
+61,Manhattan,Cambodian,208,Asian and Pacific Island
+5,Bronx,Cambodian,841,Asian and Pacific Island
+47,Brooklyn,Cambodian,0,Asian and Pacific Island
+85,Staten Island,Cambodian,0,Asian and Pacific Island
+81,Queens,Hmong,61,Asian and Pacific Island
+61,Manhattan,Hmong,39,Asian and Pacific Island
+5,Bronx,Hmong,0,Asian and Pacific Island
+47,Brooklyn,Hmong,0,Asian and Pacific Island
+85,Staten Island,Hmong,0,Asian and Pacific Island
+81,Queens,Thai,3195,Asian and Pacific Island
+61,Manhattan,Thai,370,Asian and Pacific Island
+5,Bronx,Thai,263,Asian and Pacific Island
+47,Brooklyn,Thai,1010,Asian and Pacific Island
+85,Staten Island,Thai,308,Asian and Pacific Island
+81,Queens,Laotian,65,Asian and Pacific Island
+61,Manhattan,Laotian,0,Asian and Pacific Island
+5,Bronx,Laotian,0,Asian and Pacific Island
+47,Brooklyn,Laotian,72,Asian and Pacific Island
+85,Staten Island,Laotian,0,Asian and Pacific Island
+81,Queens,Vietnamese,3489,Asian and Pacific Island
+61,Manhattan,Vietnamese,1376,Asian and Pacific Island
+5,Bronx,Vietnamese,2559,Asian and Pacific Island
+47,Brooklyn,Vietnamese,2876,Asian and Pacific Island
+85,Staten Island,Vietnamese,518,Asian and Pacific Island
+81,Queens,Other Asian,21022,Asian and Pacific Island
+61,Manhattan,Other Asian,5704,Asian and Pacific Island
+5,Bronx,Other Asian,2370,Asian and Pacific Island
+47,Brooklyn,Other Asian,14820,Asian and Pacific Island
+85,Staten Island,Other Asian,3158,Asian and Pacific Island
+81,Queens,Tagalog,29458,Asian and Pacific Island
+61,Manhattan,Tagalog,6590,Asian and Pacific Island
+5,Bronx,Tagalog,4034,Asian and Pacific Island
+47,Brooklyn,Tagalog,5277,Asian and Pacific Island
+85,Staten Island,Tagalog,4501,Asian and Pacific Island
+81,Queens,Other Pacific Island,3857,Asian and Pacific Island
+61,Manhattan,Other Pacific Island,1368,Asian and Pacific Island
+5,Bronx,Other Pacific Island,212,Asian and Pacific Island
+47,Brooklyn,Other Pacific Island,1597,Asian and Pacific Island
+85,Staten Island,Other Pacific Island,239,Asian and Pacific Island
+81,Queens,Navajo,0,Other
+61,Manhattan,Navajo,86,Other
+5,Bronx,Navajo,0,Other
+47,Brooklyn,Navajo,0,Other
+85,Staten Island,Navajo,54,Other
+81,Queens,Other Native North American,988,Other
+61,Manhattan,Other Native North American,73,Other
+5,Bronx,Other Native North American,62,Other
+47,Brooklyn,Other Native North American,144,Other
+85,Staten Island,Other Native North American,177,Other
+81,Queens,Hungarian,2026,Other
+61,Manhattan,Hungarian,1243,Other
+5,Bronx,Hungarian,1257,Other
+47,Brooklyn,Hungarian,2416,Other
+85,Staten Island,Hungarian,65,Other
+81,Queens,Arabic,17905,Other
+61,Manhattan,Arabic,8809,Other
+5,Bronx,Arabic,8653,Other
+47,Brooklyn,Arabic,29893,Other
+85,Staten Island,Arabic,7406,Other
+81,Queens,Hebrew,7887,Other
+61,Manhattan,Hebrew,11571,Other
+5,Bronx,Hebrew,1174,Other
+47,Brooklyn,Hebrew,21219,Other
+85,Staten Island,Hebrew,1934,Other
+81,Queens,Other African,12656,Other
+61,Manhattan,Other African,9080,Other
+5,Bronx,Other African,47372,Other
+47,Brooklyn,Other African,14812,Other
+85,Staten Island,Other African,1834,Other

@@ -1,0 +1,751 @@
+language,year,borough,county,lang_family,speaker_num
+Arabic,2005,Bronx,5,Other,4398.0
+Arabic,2005,Brooklyn,47,Other,27351.0
+Arabic,2005,Manhattan,61,Other,6327.0
+Arabic,2005,Queens,81,Other,12865.0
+Arabic,2005,Staten Island,85,Other,
+Arabic,2010,Bronx,5,Other,3845.0
+Arabic,2010,Brooklyn,47,Other,22154.0
+Arabic,2010,Manhattan,61,Other,5618.0
+Arabic,2010,Queens,81,Other,14986.0
+Arabic,2010,Staten Island,85,Other,
+Arabic,2015,Bronx,5,Other,8653.0
+Arabic,2015,Brooklyn,47,Other,29893.0
+Arabic,2015,Manhattan,61,Other,8809.0
+Arabic,2015,Queens,81,Other,17905.0
+Arabic,2015,Staten Island,85,Other,7406.0
+Arabic,2019,Bronx,5,Other,8748.0
+Arabic,2019,Brooklyn,47,Other,30680.0
+Arabic,2019,Manhattan,61,Other,7912.0
+Arabic,2019,Queens,81,Other,11544.0
+Arabic,2019,Staten Island,85,Other,12313.0
+Armenian,2005,Bronx,5,Indo-European,171.0
+Armenian,2005,Brooklyn,47,Indo-European,777.0
+Armenian,2005,Manhattan,61,Indo-European,402.0
+Armenian,2005,Queens,81,Indo-European,2266.0
+Armenian,2005,Staten Island,85,Indo-European,
+Armenian,2010,Bronx,5,Indo-European,
+Armenian,2010,Brooklyn,47,Indo-European,55.0
+Armenian,2010,Manhattan,61,Indo-European,420.0
+Armenian,2010,Queens,81,Indo-European,1287.0
+Armenian,2010,Staten Island,85,Indo-European,
+Armenian,2015,Bronx,5,Indo-European,121.0
+Armenian,2015,Brooklyn,47,Indo-European,1091.0
+Armenian,2015,Manhattan,61,Indo-European,18.0
+Armenian,2015,Queens,81,Indo-European,1761.0
+Armenian,2015,Staten Island,85,Indo-European,
+Armenian,2019,Bronx,5,Indo-European,
+Armenian,2019,Brooklyn,47,Indo-European,1124.0
+Armenian,2019,Manhattan,61,Indo-European,678.0
+Armenian,2019,Queens,81,Indo-European,1831.0
+Armenian,2019,Staten Island,85,Indo-European,
+Bengali,2019,Bronx,5,Indo-European,17485.0
+Bengali,2019,Brooklyn,47,Indo-European,26524.0
+Bengali,2019,Manhattan,61,Indo-European,2232.0
+Bengali,2019,Queens,81,Indo-European,70699.0
+Bengali,2019,Staten Island,85,Indo-European,488.0
+Chinese,2005,Bronx,5,Asian and Pacific Island,7902.0
+Chinese,2005,Brooklyn,47,Asian and Pacific Island,125123.0
+Chinese,2005,Manhattan,61,Asian and Pacific Island,72931.0
+Chinese,2005,Queens,81,Asian and Pacific Island,144632.0
+Chinese,2005,Staten Island,85,Asian and Pacific Island,
+Chinese,2010,Bronx,5,Asian and Pacific Island,7359.0
+Chinese,2010,Brooklyn,47,Asian and Pacific Island,163961.0
+Chinese,2010,Manhattan,61,Asian and Pacific Island,77283.0
+Chinese,2010,Queens,81,Asian and Pacific Island,181821.0
+Chinese,2010,Staten Island,85,Asian and Pacific Island,
+Chinese,2015,Bronx,5,Asian and Pacific Island,7550.0
+Chinese,2015,Brooklyn,47,Asian and Pacific Island,181712.0
+Chinese,2015,Manhattan,61,Asian and Pacific Island,91599.0
+Chinese,2015,Queens,81,Asian and Pacific Island,198392.0
+Chinese,2015,Staten Island,85,Asian and Pacific Island,10314.0
+Chinese,2019,Bronx,5,Asian and Pacific Island,5420.0
+Chinese,2019,Brooklyn,47,Asian and Pacific Island,173022.0
+Chinese,2019,Manhattan,61,Asian and Pacific Island,89725.0
+Chinese,2019,Queens,81,Asian and Pacific Island,208391.0
+Chinese,2019,Staten Island,85,Asian and Pacific Island,22125.0
+French,2005,Bronx,5,Indo-European,12145.0
+French,2005,Brooklyn,47,Indo-European,31583.0
+French,2005,Manhattan,61,Indo-European,30390.0
+French,2005,Queens,81,Indo-European,17687.0
+French,2005,Staten Island,85,Indo-European,
+French,2010,Bronx,5,Indo-European,11528.0
+French,2010,Brooklyn,47,Indo-European,19159.0
+French,2010,Manhattan,61,Indo-European,32815.0
+French,2010,Queens,81,Indo-European,13124.0
+French,2010,Staten Island,85,Indo-European,
+French,2015,Bronx,5,Indo-European,15385.0
+French,2015,Brooklyn,47,Indo-European,20007.0
+French,2015,Manhattan,61,Indo-European,36896.0
+French,2015,Queens,81,Indo-European,10735.0
+French,2015,Staten Island,85,Indo-European,1739.0
+French,2019,Bronx,5,Indo-European,14330.0
+French,2019,Brooklyn,47,Indo-European,20946.0
+French,2019,Manhattan,61,Indo-European,23745.0
+French,2019,Queens,81,Indo-European,10499.0
+French,2019,Staten Island,85,Indo-European,2263.0
+French Creole,2005,Bronx,5,Indo-European,4119.0
+French Creole,2005,Brooklyn,47,Indo-European,61519.0
+French Creole,2005,Manhattan,61,Indo-European,1353.0
+French Creole,2005,Queens,81,Indo-European,20904.0
+French Creole,2005,Staten Island,85,Indo-European,
+French Creole,2010,Bronx,5,Indo-European,7564.0
+French Creole,2010,Brooklyn,47,Indo-European,67167.0
+French Creole,2010,Manhattan,61,Indo-European,3893.0
+French Creole,2010,Queens,81,Indo-European,34080.0
+French Creole,2010,Staten Island,85,Indo-European,
+French Creole,2015,Bronx,5,Indo-European,5295.0
+French Creole,2015,Brooklyn,47,Indo-European,76337.0
+French Creole,2015,Manhattan,61,Indo-European,2771.0
+French Creole,2015,Queens,81,Indo-European,24365.0
+French Creole,2015,Staten Island,85,Indo-European,229.0
+German,2005,Bronx,5,Indo-European,1938.0
+German,2005,Brooklyn,47,Indo-European,4118.0
+German,2005,Manhattan,61,Indo-European,10484.0
+German,2005,Queens,81,Indo-European,6125.0
+German,2005,Staten Island,85,Indo-European,
+German,2010,Bronx,5,Indo-European,841.0
+German,2010,Brooklyn,47,Indo-European,2792.0
+German,2010,Manhattan,61,Indo-European,11497.0
+German,2010,Queens,81,Indo-European,6936.0
+German,2010,Staten Island,85,Indo-European,
+German,2015,Bronx,5,Indo-European,950.0
+German,2015,Brooklyn,47,Indo-European,5671.0
+German,2015,Manhattan,61,Indo-European,8446.0
+German,2015,Queens,81,Indo-European,4999.0
+German,2015,Staten Island,85,Indo-European,789.0
+German,2019,Bronx,5,Indo-European,304.0
+German,2019,Brooklyn,47,Indo-European,4220.0
+German,2019,Manhattan,61,Indo-European,7942.0
+German,2019,Queens,81,Indo-European,5196.0
+German,2019,Staten Island,85,Indo-European,183.0
+Greek,2005,Bronx,5,Indo-European,2221.0
+Greek,2005,Brooklyn,47,Indo-European,4456.0
+Greek,2005,Manhattan,61,Indo-European,3762.0
+Greek,2005,Queens,81,Indo-European,35809.0
+Greek,2005,Staten Island,85,Indo-European,
+Greek,2010,Bronx,5,Indo-European,2230.0
+Greek,2010,Brooklyn,47,Indo-European,8456.0
+Greek,2010,Manhattan,61,Indo-European,5458.0
+Greek,2010,Queens,81,Indo-European,30302.0
+Greek,2010,Staten Island,85,Indo-European,
+Greek,2015,Bronx,5,Indo-European,2143.0
+Greek,2015,Brooklyn,47,Indo-European,7376.0
+Greek,2015,Manhattan,61,Indo-European,3807.0
+Greek,2015,Queens,81,Indo-European,27388.0
+Greek,2015,Staten Island,85,Indo-European,1441.0
+Greek,2019,Bronx,5,Indo-European,3353.0
+Greek,2019,Brooklyn,47,Indo-European,6543.0
+Greek,2019,Manhattan,61,Indo-European,5973.0
+Greek,2019,Queens,81,Indo-European,20243.0
+Greek,2019,Staten Island,85,Indo-European,1944.0
+Gujarati,2005,Bronx,5,Indo-European,51.0
+Gujarati,2005,Brooklyn,47,Indo-European,2821.0
+Gujarati,2005,Manhattan,61,Indo-European,703.0
+Gujarati,2005,Queens,81,Indo-European,5375.0
+Gujarati,2005,Staten Island,85,Indo-European,
+Gujarati,2010,Bronx,5,Indo-European,732.0
+Gujarati,2010,Brooklyn,47,Indo-European,1057.0
+Gujarati,2010,Manhattan,61,Indo-European,1036.0
+Gujarati,2010,Queens,81,Indo-European,5471.0
+Gujarati,2010,Staten Island,85,Indo-European,
+Gujarati,2015,Bronx,5,Indo-European,264.0
+Gujarati,2015,Brooklyn,47,Indo-European,1132.0
+Gujarati,2015,Manhattan,61,Indo-European,1450.0
+Gujarati,2015,Queens,81,Indo-European,6062.0
+Gujarati,2015,Staten Island,85,Indo-European,742.0
+Gujarati,2019,Bronx,5,Indo-European,
+Gujarati,2019,Brooklyn,47,Indo-European,1319.0
+Gujarati,2019,Manhattan,61,Indo-European,1931.0
+Gujarati,2019,Queens,81,Indo-European,2589.0
+Gujarati,2019,Staten Island,85,Indo-European,628.0
+Haitian and French Creole,2019,Bronx,5,Indo-European,6371.0
+Haitian and French Creole,2019,Brooklyn,47,Indo-European,61133.0
+Haitian and French Creole,2019,Manhattan,61,Indo-European,2762.0
+Haitian and French Creole,2019,Queens,81,Indo-European,31513.0
+Haitian and French Creole,2019,Staten Island,85,Indo-European,381.0
+Hebrew,2005,Bronx,5,Other,309.0
+Hebrew,2005,Brooklyn,47,Other,22088.0
+Hebrew,2005,Manhattan,61,Other,8165.0
+Hebrew,2005,Queens,81,Other,10520.0
+Hebrew,2005,Staten Island,85,Other,
+Hebrew,2010,Bronx,5,Other,2877.0
+Hebrew,2010,Brooklyn,47,Other,23595.0
+Hebrew,2010,Manhattan,61,Other,10663.0
+Hebrew,2010,Queens,81,Other,9429.0
+Hebrew,2010,Staten Island,85,Other,
+Hebrew,2015,Bronx,5,Other,1174.0
+Hebrew,2015,Brooklyn,47,Other,21219.0
+Hebrew,2015,Manhattan,61,Other,11571.0
+Hebrew,2015,Queens,81,Other,7887.0
+Hebrew,2015,Staten Island,85,Other,1934.0
+Hebrew,2019,Bronx,5,Other,1133.0
+Hebrew,2019,Brooklyn,47,Other,17872.0
+Hebrew,2019,Manhattan,61,Other,9976.0
+Hebrew,2019,Queens,81,Other,6667.0
+Hebrew,2019,Staten Island,85,Other,1359.0
+Hindi,2005,Bronx,5,Indo-European,1011.0
+Hindi,2005,Brooklyn,47,Indo-European,6581.0
+Hindi,2005,Manhattan,61,Indo-European,3664.0
+Hindi,2005,Queens,81,Indo-European,15664.0
+Hindi,2005,Staten Island,85,Indo-European,
+Hindi,2010,Bronx,5,Indo-European,667.0
+Hindi,2010,Brooklyn,47,Indo-European,2504.0
+Hindi,2010,Manhattan,61,Indo-European,6987.0
+Hindi,2010,Queens,81,Indo-European,21883.0
+Hindi,2010,Staten Island,85,Indo-European,
+Hindi,2015,Bronx,5,Indo-European,530.0
+Hindi,2015,Brooklyn,47,Indo-European,4215.0
+Hindi,2015,Manhattan,61,Indo-European,6623.0
+Hindi,2015,Queens,81,Indo-European,28877.0
+Hindi,2015,Staten Island,85,Indo-European,1314.0
+Hindi,2019,Bronx,5,Indo-European,2071.0
+Hindi,2019,Brooklyn,47,Indo-European,4340.0
+Hindi,2019,Manhattan,61,Indo-European,8540.0
+Hindi,2019,Queens,81,Indo-European,16409.0
+Hindi,2019,Staten Island,85,Indo-European,1365.0
+Hmong,2005,Bronx,5,Asian and Pacific Island,
+Hmong,2005,Brooklyn,47,Asian and Pacific Island,
+Hmong,2005,Manhattan,61,Asian and Pacific Island,
+Hmong,2005,Queens,81,Asian and Pacific Island,
+Hmong,2005,Staten Island,85,Asian and Pacific Island,
+Hmong,2010,Bronx,5,Asian and Pacific Island,
+Hmong,2010,Brooklyn,47,Asian and Pacific Island,
+Hmong,2010,Manhattan,61,Asian and Pacific Island,
+Hmong,2010,Queens,81,Asian and Pacific Island,
+Hmong,2010,Staten Island,85,Asian and Pacific Island,
+Hmong,2015,Bronx,5,Asian and Pacific Island,
+Hmong,2015,Brooklyn,47,Asian and Pacific Island,
+Hmong,2015,Manhattan,61,Asian and Pacific Island,39.0
+Hmong,2015,Queens,81,Asian and Pacific Island,61.0
+Hmong,2015,Staten Island,85,Asian and Pacific Island,
+Hmong,2019,Bronx,5,Asian and Pacific Island,
+Hmong,2019,Brooklyn,47,Asian and Pacific Island,62.0
+Hmong,2019,Manhattan,61,Asian and Pacific Island,
+Hmong,2019,Queens,81,Asian and Pacific Island,183.0
+Hmong,2019,Staten Island,85,Asian and Pacific Island,
+Hungarian,2005,Bronx,5,Other,1231.0
+Hungarian,2005,Brooklyn,47,Other,3359.0
+Hungarian,2005,Manhattan,61,Other,1628.0
+Hungarian,2005,Queens,81,Other,3222.0
+Hungarian,2005,Staten Island,85,Other,
+Hungarian,2010,Bronx,5,Other,602.0
+Hungarian,2010,Brooklyn,47,Other,1714.0
+Hungarian,2010,Manhattan,61,Other,1940.0
+Hungarian,2010,Queens,81,Other,2530.0
+Hungarian,2010,Staten Island,85,Other,
+Hungarian,2015,Bronx,5,Other,1257.0
+Hungarian,2015,Brooklyn,47,Other,2416.0
+Hungarian,2015,Manhattan,61,Other,1243.0
+Hungarian,2015,Queens,81,Other,2026.0
+Hungarian,2015,Staten Island,85,Other,65.0
+Italian,2005,Bronx,5,Indo-European,13098.0
+Italian,2005,Brooklyn,47,Indo-European,31917.0
+Italian,2005,Manhattan,61,Indo-European,8995.0
+Italian,2005,Queens,81,Indo-European,33995.0
+Italian,2005,Staten Island,85,Indo-European,
+Italian,2010,Bronx,5,Indo-European,11393.0
+Italian,2010,Brooklyn,47,Indo-European,26724.0
+Italian,2010,Manhattan,61,Indo-European,9895.0
+Italian,2010,Queens,81,Indo-European,31038.0
+Italian,2010,Staten Island,85,Indo-European,
+Italian,2015,Bronx,5,Indo-European,8653.0
+Italian,2015,Brooklyn,47,Indo-European,20010.0
+Italian,2015,Manhattan,61,Indo-European,9409.0
+Italian,2015,Queens,81,Indo-European,21610.0
+Italian,2015,Staten Island,85,Indo-European,11950.0
+Italian,2019,Bronx,5,Indo-European,4581.0
+Italian,2019,Brooklyn,47,Indo-European,16555.0
+Italian,2019,Manhattan,61,Indo-European,7801.0
+Italian,2019,Queens,81,Indo-European,17110.0
+Italian,2019,Staten Island,85,Indo-European,10211.0
+Japanese,2005,Bronx,5,Asian and Pacific Island,264.0
+Japanese,2005,Brooklyn,47,Asian and Pacific Island,2581.0
+Japanese,2005,Manhattan,61,Asian and Pacific Island,7929.0
+Japanese,2005,Queens,81,Asian and Pacific Island,5647.0
+Japanese,2005,Staten Island,85,Asian and Pacific Island,
+Japanese,2010,Bronx,5,Asian and Pacific Island,390.0
+Japanese,2010,Brooklyn,47,Asian and Pacific Island,3549.0
+Japanese,2010,Manhattan,61,Asian and Pacific Island,10829.0
+Japanese,2010,Queens,81,Asian and Pacific Island,5590.0
+Japanese,2010,Staten Island,85,Asian and Pacific Island,
+Japanese,2015,Bronx,5,Asian and Pacific Island,500.0
+Japanese,2015,Brooklyn,47,Asian and Pacific Island,4918.0
+Japanese,2015,Manhattan,61,Asian and Pacific Island,10416.0
+Japanese,2015,Queens,81,Asian and Pacific Island,6038.0
+Japanese,2015,Staten Island,85,Asian and Pacific Island,344.0
+Japanese,2019,Bronx,5,Asian and Pacific Island,358.0
+Japanese,2019,Brooklyn,47,Asian and Pacific Island,3322.0
+Japanese,2019,Manhattan,61,Asian and Pacific Island,8710.0
+Japanese,2019,Queens,81,Asian and Pacific Island,5465.0
+Japanese,2019,Staten Island,85,Asian and Pacific Island,46.0
+Khmer,2019,Bronx,5,Asian and Pacific Island,1292.0
+Khmer,2019,Brooklyn,47,Asian and Pacific Island,265.0
+Khmer,2019,Manhattan,61,Asian and Pacific Island,22.0
+Khmer,2019,Queens,81,Asian and Pacific Island,1675.0
+Khmer,2019,Staten Island,85,Asian and Pacific Island,
+Korean,2005,Bronx,5,Asian and Pacific Island,4308.0
+Korean,2005,Brooklyn,47,Asian and Pacific Island,3604.0
+Korean,2005,Manhattan,61,Asian and Pacific Island,12249.0
+Korean,2005,Queens,81,Asian and Pacific Island,50571.0
+Korean,2005,Staten Island,85,Asian and Pacific Island,
+Korean,2010,Bronx,5,Asian and Pacific Island,2669.0
+Korean,2010,Brooklyn,47,Asian and Pacific Island,4744.0
+Korean,2010,Manhattan,61,Asian and Pacific Island,10481.0
+Korean,2010,Queens,81,Asian and Pacific Island,58675.0
+Korean,2010,Staten Island,85,Asian and Pacific Island,
+Korean,2015,Bronx,5,Asian and Pacific Island,2279.0
+Korean,2015,Brooklyn,47,Asian and Pacific Island,4627.0
+Korean,2015,Manhattan,61,Asian and Pacific Island,13382.0
+Korean,2015,Queens,81,Asian and Pacific Island,54655.0
+Korean,2015,Staten Island,85,Asian and Pacific Island,4153.0
+Korean,2019,Bronx,5,Asian and Pacific Island,1455.0
+Korean,2019,Brooklyn,47,Asian and Pacific Island,5921.0
+Korean,2019,Manhattan,61,Asian and Pacific Island,14539.0
+Korean,2019,Queens,81,Asian and Pacific Island,40194.0
+Korean,2019,Staten Island,85,Asian and Pacific Island,1574.0
+Laotian,2005,Bronx,5,Asian and Pacific Island,
+Laotian,2005,Brooklyn,47,Asian and Pacific Island,
+Laotian,2005,Manhattan,61,Asian and Pacific Island,200.0
+Laotian,2005,Queens,81,Asian and Pacific Island,
+Laotian,2005,Staten Island,85,Asian and Pacific Island,
+Laotian,2010,Bronx,5,Asian and Pacific Island,
+Laotian,2010,Brooklyn,47,Asian and Pacific Island,
+Laotian,2010,Manhattan,61,Asian and Pacific Island,
+Laotian,2010,Queens,81,Asian and Pacific Island,
+Laotian,2010,Staten Island,85,Asian and Pacific Island,
+Laotian,2015,Bronx,5,Asian and Pacific Island,
+Laotian,2015,Brooklyn,47,Asian and Pacific Island,72.0
+Laotian,2015,Manhattan,61,Asian and Pacific Island,
+Laotian,2015,Queens,81,Asian and Pacific Island,65.0
+Laotian,2015,Staten Island,85,Asian and Pacific Island,
+Mon-Khmer,2005,Bronx,5,Asian and Pacific Island,448.0
+Mon-Khmer,2005,Brooklyn,47,Asian and Pacific Island,362.0
+Mon-Khmer,2005,Manhattan,61,Asian and Pacific Island,
+Mon-Khmer,2005,Queens,81,Asian and Pacific Island,
+Mon-Khmer,2005,Staten Island,85,Asian and Pacific Island,
+Mon-Khmer,2010,Bronx,5,Asian and Pacific Island,1943.0
+Mon-Khmer,2010,Brooklyn,47,Asian and Pacific Island,719.0
+Mon-Khmer,2010,Manhattan,61,Asian and Pacific Island,102.0
+Mon-Khmer,2010,Queens,81,Asian and Pacific Island,
+Mon-Khmer,2010,Staten Island,85,Asian and Pacific Island,
+Mon-Khmer,2015,Bronx,5,Asian and Pacific Island,841.0
+Mon-Khmer,2015,Brooklyn,47,Asian and Pacific Island,
+Mon-Khmer,2015,Manhattan,61,Asian and Pacific Island,208.0
+Mon-Khmer,2015,Queens,81,Asian and Pacific Island,150.0
+Mon-Khmer,2015,Staten Island,85,Asian and Pacific Island,
+Navajo,2005,Bronx,5,Other,
+Navajo,2005,Brooklyn,47,Other,
+Navajo,2005,Manhattan,61,Other,
+Navajo,2005,Queens,81,Other,
+Navajo,2005,Staten Island,85,Other,
+Navajo,2010,Bronx,5,Other,
+Navajo,2010,Brooklyn,47,Other,
+Navajo,2010,Manhattan,61,Other,
+Navajo,2010,Queens,81,Other,
+Navajo,2010,Staten Island,85,Other,
+Navajo,2015,Bronx,5,Other,
+Navajo,2015,Brooklyn,47,Other,
+Navajo,2015,Manhattan,61,Other,86.0
+Navajo,2015,Queens,81,Other,
+Navajo,2015,Staten Island,85,Other,54.0
+Navajo,2019,Bronx,5,Other,
+Navajo,2019,Brooklyn,47,Other,
+Navajo,2019,Manhattan,61,Other,
+Navajo,2019,Queens,81,Other,
+Navajo,2019,Staten Island,85,Other,
+Other African,2005,Bronx,5,Other,26786.0
+Other African,2005,Brooklyn,47,Other,9193.0
+Other African,2005,Manhattan,61,Other,4225.0
+Other African,2005,Queens,81,Other,6620.0
+Other African,2005,Staten Island,85,Other,
+Other African,2010,Bronx,5,Other,34591.0
+Other African,2010,Brooklyn,47,Other,14538.0
+Other African,2010,Manhattan,61,Other,6259.0
+Other African,2010,Queens,81,Other,10319.0
+Other African,2010,Staten Island,85,Other,
+Other African,2015,Bronx,5,Other,47372.0
+Other African,2015,Brooklyn,47,Other,14812.0
+Other African,2015,Manhattan,61,Other,9080.0
+Other African,2015,Queens,81,Other,12656.0
+Other African,2015,Staten Island,85,Other,1834.0
+Other African,2019,Bronx,5,Other,42444.0
+Other African,2019,Brooklyn,47,Other,12570.0
+Other African,2019,Manhattan,61,Other,5382.0
+Other African,2019,Queens,81,Other,7530.0
+Other African,2019,Staten Island,85,Other,4440.0
+Other Afro-Asiatic,2019,Bronx,5,Other,5709.0
+Other Afro-Asiatic,2019,Brooklyn,47,Other,923.0
+Other Afro-Asiatic,2019,Manhattan,61,Other,2193.0
+Other Afro-Asiatic,2019,Queens,81,Other,801.0
+Other Afro-Asiatic,2019,Staten Island,85,Other,
+Other Asian,2005,Bronx,5,Asian and Pacific Island,1940.0
+Other Asian,2005,Brooklyn,47,Asian and Pacific Island,7217.0
+Other Asian,2005,Manhattan,61,Asian and Pacific Island,3344.0
+Other Asian,2005,Queens,81,Asian and Pacific Island,14063.0
+Other Asian,2005,Staten Island,85,Asian and Pacific Island,
+Other Asian,2010,Bronx,5,Asian and Pacific Island,2136.0
+Other Asian,2010,Brooklyn,47,Asian and Pacific Island,9929.0
+Other Asian,2010,Manhattan,61,Asian and Pacific Island,5120.0
+Other Asian,2010,Queens,81,Asian and Pacific Island,22068.0
+Other Asian,2010,Staten Island,85,Asian and Pacific Island,
+Other Asian,2015,Bronx,5,Asian and Pacific Island,2370.0
+Other Asian,2015,Brooklyn,47,Asian and Pacific Island,14820.0
+Other Asian,2015,Manhattan,61,Asian and Pacific Island,5704.0
+Other Asian,2015,Queens,81,Asian and Pacific Island,21022.0
+Other Asian,2015,Staten Island,85,Asian and Pacific Island,3158.0
+Other Asian,2019,Bronx,5,Asian and Pacific Island,307.0
+Other Asian,2019,Brooklyn,47,Asian and Pacific Island,13704.0
+Other Asian,2019,Manhattan,61,Asian and Pacific Island,1364.0
+Other Asian,2019,Queens,81,Asian and Pacific Island,13935.0
+Other Asian,2019,Staten Island,85,Asian and Pacific Island,1261.0
+Other Austronesian,2019,Bronx,5,Asian and Pacific Island,334.0
+Other Austronesian,2019,Brooklyn,47,Asian and Pacific Island,899.0
+Other Austronesian,2019,Manhattan,61,Asian and Pacific Island,929.0
+Other Austronesian,2019,Queens,81,Asian and Pacific Island,3558.0
+Other Austronesian,2019,Staten Island,85,Asian and Pacific Island,
+Other Dravidian,2019,Bronx,5,Indo-European,257.0
+Other Dravidian,2019,Brooklyn,47,Indo-European,851.0
+Other Dravidian,2019,Manhattan,61,Indo-European,1134.0
+Other Dravidian,2019,Queens,81,Indo-European,4408.0
+Other Dravidian,2019,Staten Island,85,Indo-European,2469.0
+Other Germanic,2005,Bronx,5,Indo-European,1033.0
+Other Germanic,2005,Brooklyn,47,Indo-European,73149.0
+Other Germanic,2005,Manhattan,61,Indo-European,3684.0
+Other Germanic,2005,Queens,81,Indo-European,3914.0
+Other Germanic,2005,Staten Island,85,Indo-European,
+Other Germanic,2010,Bronx,5,Indo-European,1168.0
+Other Germanic,2010,Brooklyn,47,Indo-European,83020.0
+Other Germanic,2010,Manhattan,61,Indo-European,4310.0
+Other Germanic,2010,Queens,81,Indo-European,2415.0
+Other Germanic,2010,Staten Island,85,Indo-European,
+Other Germanic,2015,Bronx,5,Indo-European,431.0
+Other Germanic,2015,Brooklyn,47,Indo-European,89584.0
+Other Germanic,2015,Manhattan,61,Indo-European,2155.0
+Other Germanic,2015,Queens,81,Indo-European,2867.0
+Other Germanic,2015,Staten Island,85,Indo-European,155.0
+Other Indic,2005,Bronx,5,Indo-European,7643.0
+Other Indic,2005,Brooklyn,47,Indo-European,14490.0
+Other Indic,2005,Manhattan,61,Indo-European,3373.0
+Other Indic,2005,Queens,81,Indo-European,61782.0
+Other Indic,2005,Staten Island,85,Indo-European,
+Other Indic,2010,Bronx,5,Indo-European,9096.0
+Other Indic,2010,Brooklyn,47,Indo-European,19642.0
+Other Indic,2010,Manhattan,61,Indo-European,4310.0
+Other Indic,2010,Queens,81,Indo-European,69449.0
+Other Indic,2010,Staten Island,85,Indo-European,
+Other Indic,2015,Bronx,5,Indo-European,16441.0
+Other Indic,2015,Brooklyn,47,Indo-European,24167.0
+Other Indic,2015,Manhattan,61,Indo-European,3832.0
+Other Indic,2015,Queens,81,Indo-European,95425.0
+Other Indic,2015,Staten Island,85,Indo-European,2730.0
+Other Indic,2019,Bronx,5,Indo-European,1128.0
+Other Indic,2019,Brooklyn,47,Indo-European,2610.0
+Other Indic,2019,Manhattan,61,Indo-European,1320.0
+Other Indic,2019,Queens,81,Indo-European,11012.0
+Other Indic,2019,Staten Island,85,Indo-European,1865.0
+Other Indo-European,2005,Bronx,5,Indo-European,10544.0
+Other Indo-European,2005,Brooklyn,47,Indo-European,9422.0
+Other Indo-European,2005,Manhattan,61,Indo-European,3967.0
+Other Indo-European,2005,Queens,81,Indo-European,21433.0
+Other Indo-European,2005,Staten Island,85,Indo-European,
+Other Indo-European,2010,Bronx,5,Indo-European,9811.0
+Other Indo-European,2010,Brooklyn,47,Indo-European,10065.0
+Other Indo-European,2010,Manhattan,61,Indo-European,5140.0
+Other Indo-European,2010,Queens,81,Indo-European,18040.0
+Other Indo-European,2010,Staten Island,85,Indo-European,
+Other Indo-European,2015,Bronx,5,Indo-European,13199.0
+Other Indo-European,2015,Brooklyn,47,Indo-European,12135.0
+Other Indo-European,2015,Manhattan,61,Indo-European,4768.0
+Other Indo-European,2015,Queens,81,Indo-European,16039.0
+Other Indo-European,2015,Staten Island,85,Indo-European,6960.0
+Other Indo-European,2019,Bronx,5,Indo-European,9036.0
+Other Indo-European,2019,Brooklyn,47,Indo-European,9411.0
+Other Indo-European,2019,Manhattan,61,Indo-European,8732.0
+Other Indo-European,2019,Queens,81,Indo-European,14932.0
+Other Indo-European,2019,Staten Island,85,Indo-European,5872.0
+Other Native American,2005,Bronx,5,Other,604.0
+Other Native American,2005,Brooklyn,47,Other,311.0
+Other Native American,2005,Manhattan,61,Other,135.0
+Other Native American,2005,Queens,81,Other,1175.0
+Other Native American,2005,Staten Island,85,Other,
+Other Native American,2010,Bronx,5,Other,570.0
+Other Native American,2010,Brooklyn,47,Other,244.0
+Other Native American,2010,Manhattan,61,Other,272.0
+Other Native American,2010,Queens,81,Other,270.0
+Other Native American,2010,Staten Island,85,Other,
+Other Native American,2015,Bronx,5,Other,62.0
+Other Native American,2015,Brooklyn,47,Other,144.0
+Other Native American,2015,Manhattan,61,Other,73.0
+Other Native American,2015,Queens,81,Other,988.0
+Other Native American,2015,Staten Island,85,Other,177.0
+Other Native American,2019,Bronx,5,Other,110.0
+Other Native American,2019,Brooklyn,47,Other,
+Other Native American,2019,Manhattan,61,Other,14.0
+Other Native American,2019,Queens,81,Other,306.0
+Other Native American,2019,Staten Island,85,Other,245.0
+Other Pacific Island,2005,Bronx,5,Asian and Pacific Island,131.0
+Other Pacific Island,2005,Brooklyn,47,Asian and Pacific Island,348.0
+Other Pacific Island,2005,Manhattan,61,Asian and Pacific Island,517.0
+Other Pacific Island,2005,Queens,81,Asian and Pacific Island,2312.0
+Other Pacific Island,2005,Staten Island,85,Asian and Pacific Island,
+Other Pacific Island,2010,Bronx,5,Asian and Pacific Island,994.0
+Other Pacific Island,2010,Brooklyn,47,Asian and Pacific Island,1071.0
+Other Pacific Island,2010,Manhattan,61,Asian and Pacific Island,986.0
+Other Pacific Island,2010,Queens,81,Asian and Pacific Island,5436.0
+Other Pacific Island,2010,Staten Island,85,Asian and Pacific Island,
+Other Pacific Island,2015,Bronx,5,Asian and Pacific Island,212.0
+Other Pacific Island,2015,Brooklyn,47,Asian and Pacific Island,1597.0
+Other Pacific Island,2015,Manhattan,61,Asian and Pacific Island,1368.0
+Other Pacific Island,2015,Queens,81,Asian and Pacific Island,3857.0
+Other Pacific Island,2015,Staten Island,85,Asian and Pacific Island,239.0
+Other Scandinavian,2005,Bronx,5,Indo-European,67.0
+Other Scandinavian,2005,Brooklyn,47,Indo-European,782.0
+Other Scandinavian,2005,Manhattan,61,Indo-European,2383.0
+Other Scandinavian,2005,Queens,81,Indo-European,201.0
+Other Scandinavian,2005,Staten Island,85,Indo-European,
+Other Scandinavian,2010,Bronx,5,Indo-European,
+Other Scandinavian,2010,Brooklyn,47,Indo-European,1163.0
+Other Scandinavian,2010,Manhattan,61,Indo-European,3138.0
+Other Scandinavian,2010,Queens,81,Indo-European,257.0
+Other Scandinavian,2010,Staten Island,85,Indo-European,
+Other Scandinavian,2015,Bronx,5,Indo-European,77.0
+Other Scandinavian,2015,Brooklyn,47,Indo-European,2203.0
+Other Scandinavian,2015,Manhattan,61,Indo-European,3231.0
+Other Scandinavian,2015,Queens,81,Indo-European,248.0
+Other Scandinavian,2015,Staten Island,85,Indo-European,107.0
+Other Slavic,2005,Bronx,5,Indo-European,2549.0
+Other Slavic,2005,Brooklyn,47,Indo-European,7467.0
+Other Slavic,2005,Manhattan,61,Indo-European,3019.0
+Other Slavic,2005,Queens,81,Indo-European,7671.0
+Other Slavic,2005,Staten Island,85,Indo-European,
+Other Slavic,2010,Bronx,5,Indo-European,884.0
+Other Slavic,2010,Brooklyn,47,Indo-European,5291.0
+Other Slavic,2010,Manhattan,61,Indo-European,5422.0
+Other Slavic,2010,Queens,81,Indo-European,4111.0
+Other Slavic,2010,Staten Island,85,Indo-European,
+Other Slavic,2015,Bronx,5,Indo-European,1357.0
+Other Slavic,2015,Brooklyn,47,Indo-European,7077.0
+Other Slavic,2015,Manhattan,61,Indo-European,2674.0
+Other Slavic,2015,Queens,81,Indo-European,7294.0
+Other Slavic,2015,Staten Island,85,Indo-European,2822.0
+Other Slavic,2019,Bronx,5,Indo-European,622.0
+Other Slavic,2019,Brooklyn,47,Indo-European,6464.0
+Other Slavic,2019,Manhattan,61,Indo-European,2262.0
+Other Slavic,2019,Queens,81,Indo-European,3415.0
+Other Slavic,2019,Staten Island,85,Indo-European,2781.0
+Other Tai-Kadai,2019,Bronx,5,Asian and Pacific Island,66.0
+Other Tai-Kadai,2019,Brooklyn,47,Asian and Pacific Island,357.0
+Other Tai-Kadai,2019,Manhattan,61,Asian and Pacific Island,1061.0
+Other Tai-Kadai,2019,Queens,81,Asian and Pacific Island,5472.0
+Other Tai-Kadai,2019,Staten Island,85,Asian and Pacific Island,
+Persian,2005,Bronx,5,Indo-European,261.0
+Persian,2005,Brooklyn,47,Indo-European,1785.0
+Persian,2005,Manhattan,61,Indo-European,1600.0
+Persian,2005,Queens,81,Indo-European,4817.0
+Persian,2005,Staten Island,85,Indo-European,
+Persian,2010,Bronx,5,Indo-European,398.0
+Persian,2010,Brooklyn,47,Indo-European,616.0
+Persian,2010,Manhattan,61,Indo-European,2311.0
+Persian,2010,Queens,81,Indo-European,4773.0
+Persian,2010,Staten Island,85,Indo-European,
+Persian,2015,Bronx,5,Indo-European,579.0
+Persian,2015,Brooklyn,47,Indo-European,2764.0
+Persian,2015,Manhattan,61,Indo-European,2858.0
+Persian,2015,Queens,81,Indo-European,3962.0
+Persian,2015,Staten Island,85,Indo-European,89.0
+Persian,2019,Bronx,5,Indo-European,369.0
+Persian,2019,Brooklyn,47,Indo-European,3154.0
+Persian,2019,Manhattan,61,Indo-European,3805.0
+Persian,2019,Queens,81,Indo-European,3416.0
+Persian,2019,Staten Island,85,Indo-European,
+Polish,2005,Bronx,5,Indo-European,659.0
+Polish,2005,Brooklyn,47,Indo-European,26911.0
+Polish,2005,Manhattan,61,Indo-European,2263.0
+Polish,2005,Queens,81,Indo-European,20557.0
+Polish,2005,Staten Island,85,Indo-European,
+Polish,2010,Bronx,5,Indo-European,508.0
+Polish,2010,Brooklyn,47,Indo-European,25269.0
+Polish,2010,Manhattan,61,Indo-European,4502.0
+Polish,2010,Queens,81,Indo-European,24441.0
+Polish,2010,Staten Island,85,Indo-European,
+Polish,2015,Bronx,5,Indo-European,1638.0
+Polish,2015,Brooklyn,47,Indo-European,19956.0
+Polish,2015,Manhattan,61,Indo-European,2639.0
+Polish,2015,Queens,81,Indo-European,26044.0
+Polish,2015,Staten Island,85,Indo-European,5680.0
+Polish,2019,Bronx,5,Indo-European,324.0
+Polish,2019,Brooklyn,47,Indo-European,13089.0
+Polish,2019,Manhattan,61,Indo-European,2413.0
+Polish,2019,Queens,81,Indo-European,24661.0
+Polish,2019,Staten Island,85,Indo-European,4250.0
+Portuguese,2005,Bronx,5,Indo-European,482.0
+Portuguese,2005,Brooklyn,47,Indo-European,1812.0
+Portuguese,2005,Manhattan,61,Indo-European,4257.0
+Portuguese,2005,Queens,81,Indo-European,7007.0
+Portuguese,2005,Staten Island,85,Indo-European,
+Portuguese,2010,Bronx,5,Indo-European,513.0
+Portuguese,2010,Brooklyn,47,Indo-European,1788.0
+Portuguese,2010,Manhattan,61,Indo-European,6736.0
+Portuguese,2010,Queens,81,Indo-European,7750.0
+Portuguese,2010,Staten Island,85,Indo-European,
+Portuguese,2015,Bronx,5,Indo-European,1686.0
+Portuguese,2015,Brooklyn,47,Indo-European,2813.0
+Portuguese,2015,Manhattan,61,Indo-European,6994.0
+Portuguese,2015,Queens,81,Indo-European,6006.0
+Portuguese,2015,Staten Island,85,Indo-European,175.0
+Portuguese,2019,Bronx,5,Indo-European,866.0
+Portuguese,2019,Brooklyn,47,Indo-European,2884.0
+Portuguese,2019,Manhattan,61,Indo-European,10671.0
+Portuguese,2019,Queens,81,Indo-European,4626.0
+Portuguese,2019,Staten Island,85,Indo-European,297.0
+Punjabi,2019,Bronx,5,Indo-European,950.0
+Punjabi,2019,Brooklyn,47,Indo-European,2855.0
+Punjabi,2019,Manhattan,61,Indo-European,720.0
+Punjabi,2019,Queens,81,Indo-European,20247.0
+Punjabi,2019,Staten Island,85,Indo-European,
+Russian,2005,Bronx,5,Indo-European,5774.0
+Russian,2005,Brooklyn,47,Indo-European,137872.0
+Russian,2005,Manhattan,61,Indo-European,8719.0
+Russian,2005,Queens,81,Indo-European,30548.0
+Russian,2005,Staten Island,85,Indo-European,
+Russian,2010,Bronx,5,Indo-European,3182.0
+Russian,2010,Brooklyn,47,Indo-European,128288.0
+Russian,2010,Manhattan,61,Indo-European,11343.0
+Russian,2010,Queens,81,Indo-European,32770.0
+Russian,2010,Staten Island,85,Indo-European,
+Russian,2015,Bronx,5,Indo-European,4429.0
+Russian,2015,Brooklyn,47,Indo-European,128359.0
+Russian,2015,Manhattan,61,Indo-European,13194.0
+Russian,2015,Queens,81,Indo-European,41759.0
+Russian,2015,Staten Island,85,Indo-European,12487.0
+Russian,2019,Bronx,5,Indo-European,3403.0
+Russian,2019,Brooklyn,47,Indo-European,123340.0
+Russian,2019,Manhattan,61,Indo-European,15043.0
+Russian,2019,Queens,81,Indo-European,33656.0
+Russian,2019,Staten Island,85,Indo-European,17677.0
+Serbo-Croatian,2005,Bronx,5,Indo-European,1302.0
+Serbo-Croatian,2005,Brooklyn,47,Indo-European,3315.0
+Serbo-Croatian,2005,Manhattan,61,Indo-European,3428.0
+Serbo-Croatian,2005,Queens,81,Indo-European,10310.0
+Serbo-Croatian,2005,Staten Island,85,Indo-European,
+Serbo-Croatian,2010,Bronx,5,Indo-European,2429.0
+Serbo-Croatian,2010,Brooklyn,47,Indo-European,2276.0
+Serbo-Croatian,2010,Manhattan,61,Indo-European,6112.0
+Serbo-Croatian,2010,Queens,81,Indo-European,9843.0
+Serbo-Croatian,2010,Staten Island,85,Indo-European,
+Serbo-Croatian,2015,Bronx,5,Indo-European,1840.0
+Serbo-Croatian,2015,Brooklyn,47,Indo-European,3296.0
+Serbo-Croatian,2015,Manhattan,61,Indo-European,4288.0
+Serbo-Croatian,2015,Queens,81,Indo-European,9959.0
+Serbo-Croatian,2015,Staten Island,85,Indo-European,1834.0
+Serbo-Croatian,2019,Bronx,5,Indo-European,1491.0
+Serbo-Croatian,2019,Brooklyn,47,Indo-European,1467.0
+Serbo-Croatian,2019,Manhattan,61,Indo-European,1765.0
+Serbo-Croatian,2019,Queens,81,Indo-European,11137.0
+Serbo-Croatian,2019,Staten Island,85,Indo-European,1464.0
+Spanish,2005,Bronx,5,Indo-European,556951.0
+Spanish,2005,Brooklyn,47,Indo-European,398837.0
+Spanish,2005,Manhattan,61,Indo-European,321861.0
+Spanish,2005,Queens,81,Indo-European,487565.0
+Spanish,2005,Staten Island,85,Indo-European,
+Spanish,2010,Bronx,5,Indo-European,603543.0
+Spanish,2010,Brooklyn,47,Indo-European,401318.0
+Spanish,2010,Manhattan,61,Indo-European,342634.0
+Spanish,2010,Queens,81,Indo-European,510372.0
+Spanish,2010,Staten Island,85,Indo-European,
+Spanish,2015,Bronx,5,Indo-European,651874.0
+Spanish,2015,Brooklyn,47,Indo-European,399775.0
+Spanish,2015,Manhattan,61,Indo-European,340566.0
+Spanish,2015,Queens,81,Indo-European,524568.0
+Spanish,2015,Staten Island,85,Indo-European,46850.0
+Spanish,2019,Bronx,5,Indo-European,631573.0
+Spanish,2019,Brooklyn,47,Indo-European,363599.0
+Spanish,2019,Manhattan,61,Indo-European,321998.0
+Spanish,2019,Queens,81,Indo-European,500857.0
+Spanish,2019,Staten Island,85,Indo-European,45789.0
+Tagalog,2005,Bronx,5,Asian and Pacific Island,4459.0
+Tagalog,2005,Brooklyn,47,Asian and Pacific Island,4357.0
+Tagalog,2005,Manhattan,61,Asian and Pacific Island,5363.0
+Tagalog,2005,Queens,81,Asian and Pacific Island,30530.0
+Tagalog,2005,Staten Island,85,Asian and Pacific Island,
+Tagalog,2010,Bronx,5,Asian and Pacific Island,3824.0
+Tagalog,2010,Brooklyn,47,Asian and Pacific Island,6636.0
+Tagalog,2010,Manhattan,61,Asian and Pacific Island,6597.0
+Tagalog,2010,Queens,81,Asian and Pacific Island,35329.0
+Tagalog,2010,Staten Island,85,Asian and Pacific Island,
+Tagalog,2015,Bronx,5,Asian and Pacific Island,4034.0
+Tagalog,2015,Brooklyn,47,Asian and Pacific Island,5277.0
+Tagalog,2015,Manhattan,61,Asian and Pacific Island,6590.0
+Tagalog,2015,Queens,81,Asian and Pacific Island,29458.0
+Tagalog,2015,Staten Island,85,Asian and Pacific Island,4501.0
+Tagalog,2019,Bronx,5,Asian and Pacific Island,4129.0
+Tagalog,2019,Brooklyn,47,Asian and Pacific Island,4758.0
+Tagalog,2019,Manhattan,61,Asian and Pacific Island,3937.0
+Tagalog,2019,Queens,81,Asian and Pacific Island,36908.0
+Tagalog,2019,Staten Island,85,Asian and Pacific Island,2992.0
+Tamil,2019,Bronx,5,Indo-European,829.0
+Tamil,2019,Brooklyn,47,Indo-European,409.0
+Tamil,2019,Manhattan,61,Indo-European,998.0
+Tamil,2019,Queens,81,Indo-European,1075.0
+Tamil,2019,Staten Island,85,Indo-European,2735.0
+Telugu,2019,Bronx,5,Indo-European,52.0
+Telugu,2019,Brooklyn,47,Indo-European,673.0
+Telugu,2019,Manhattan,61,Indo-European,1013.0
+Telugu,2019,Queens,81,Indo-European,884.0
+Telugu,2019,Staten Island,85,Indo-European,136.0
+Thai,2005,Bronx,5,Asian and Pacific Island,643.0
+Thai,2005,Brooklyn,47,Asian and Pacific Island,382.0
+Thai,2005,Manhattan,61,Asian and Pacific Island,395.0
+Thai,2005,Queens,81,Asian and Pacific Island,3519.0
+Thai,2005,Staten Island,85,Asian and Pacific Island,
+Thai,2010,Bronx,5,Asian and Pacific Island,45.0
+Thai,2010,Brooklyn,47,Asian and Pacific Island,1436.0
+Thai,2010,Manhattan,61,Asian and Pacific Island,808.0
+Thai,2010,Queens,81,Asian and Pacific Island,3840.0
+Thai,2010,Staten Island,85,Asian and Pacific Island,
+Thai,2015,Bronx,5,Asian and Pacific Island,263.0
+Thai,2015,Brooklyn,47,Asian and Pacific Island,1010.0
+Thai,2015,Manhattan,61,Asian and Pacific Island,370.0
+Thai,2015,Queens,81,Asian and Pacific Island,3195.0
+Thai,2015,Staten Island,85,Asian and Pacific Island,308.0
+Urdu,2005,Bronx,5,Indo-European,1503.0
+Urdu,2005,Brooklyn,47,Indo-European,9481.0
+Urdu,2005,Manhattan,61,Indo-European,1353.0
+Urdu,2005,Queens,81,Indo-European,15702.0
+Urdu,2005,Staten Island,85,Indo-European,
+Urdu,2010,Bronx,5,Indo-European,3877.0
+Urdu,2010,Brooklyn,47,Indo-European,13557.0
+Urdu,2010,Manhattan,61,Indo-European,1934.0
+Urdu,2010,Queens,81,Indo-European,23001.0
+Urdu,2010,Staten Island,85,Indo-European,
+Urdu,2015,Bronx,5,Indo-European,2863.0
+Urdu,2015,Brooklyn,47,Indo-European,21199.0
+Urdu,2015,Manhattan,61,Indo-European,3121.0
+Urdu,2015,Queens,81,Indo-European,18085.0
+Urdu,2015,Staten Island,85,Indo-European,3826.0
+Urdu,2019,Bronx,5,Indo-European,3206.0
+Urdu,2019,Brooklyn,47,Indo-European,19384.0
+Urdu,2019,Manhattan,61,Indo-European,1400.0
+Urdu,2019,Queens,81,Indo-European,16747.0
+Urdu,2019,Staten Island,85,Indo-European,2572.0
+Vietnamese,2005,Bronx,5,Asian and Pacific Island,2658.0
+Vietnamese,2005,Brooklyn,47,Asian and Pacific Island,3362.0
+Vietnamese,2005,Manhattan,61,Asian and Pacific Island,1922.0
+Vietnamese,2005,Queens,81,Asian and Pacific Island,3840.0
+Vietnamese,2005,Staten Island,85,Asian and Pacific Island,
+Vietnamese,2010,Bronx,5,Asian and Pacific Island,2409.0
+Vietnamese,2010,Brooklyn,47,Asian and Pacific Island,2415.0
+Vietnamese,2010,Manhattan,61,Asian and Pacific Island,2017.0
+Vietnamese,2010,Queens,81,Asian and Pacific Island,2789.0
+Vietnamese,2010,Staten Island,85,Asian and Pacific Island,
+Vietnamese,2015,Bronx,5,Asian and Pacific Island,2559.0
+Vietnamese,2015,Brooklyn,47,Asian and Pacific Island,2876.0
+Vietnamese,2015,Manhattan,61,Asian and Pacific Island,1376.0
+Vietnamese,2015,Queens,81,Asian and Pacific Island,3489.0
+Vietnamese,2015,Staten Island,85,Asian and Pacific Island,518.0
+Vietnamese,2019,Bronx,5,Asian and Pacific Island,3369.0
+Vietnamese,2019,Brooklyn,47,Asian and Pacific Island,2906.0
+Vietnamese,2019,Manhattan,61,Asian and Pacific Island,1467.0
+Vietnamese,2019,Queens,81,Asian and Pacific Island,4694.0
+Vietnamese,2019,Staten Island,85,Asian and Pacific Island,39.0

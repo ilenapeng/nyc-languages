@@ -1,0 +1,22 @@
+{
+    "fonts": [
+        {
+            "aifont": "Lato-Bold",
+            "family": "Lato",
+            "weight": "700",
+            "style": ""
+        },
+        {
+            "aifont": "Lato-Light",
+            "family": "Lato",
+            "weight": "300",
+            "style": ""
+        },
+        {
+            "aifont": "Lato-Regular",
+            "family": "Lato",
+            "weight": "400",
+            "style": ""
+        }
+    ]
+}
